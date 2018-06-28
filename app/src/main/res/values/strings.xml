@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Frases Geniales (ARS-2018)</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">Formato de e-mail inválido</string>
+    <string name="error_invalid_password">El password debe ser mayor de 4 caracteres</string>
+    <string name="error_incorrect_password">Email o Password incorrecto</string>
+    <string name="error_field_required">Ingrese un valor para este campo</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="action_sign_out">Salir</string>
+    <string name="action_register">Registrarse</string>
+    <string name="action_save">Guardar</string>
+    <string name="action_cancel">Cancelar</string>
+    <string name="itMnAbout">Acerca de</string>
+    <string name="itMnExit">Salir</string>
+    <string name="dialog_message_delete">¿ Desea realmente eliminar esta frase ?</string>
+    <string name="dialog_title_delete">Eliminando Frase</string>
+    <string name="dialog_title_rating">Votando Frase</string>
+</resources>

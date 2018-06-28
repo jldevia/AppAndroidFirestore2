@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/itmMnEdit"
+        android:icon="@android:drawable/ic_menu_edit"
+        android:title="Editar"
+        app:showAsAction="ifRoom"/>
+
+    <item
+        android:id="@+id/itmMnRating"
+        android:icon="@android:drawable/btn_star_big_on"
+        android:title="Votar"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/itmMnDelete"
+        android:icon="@android:drawable/ic_menu_delete"
+        android:title="Eliminar"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/itMnExit"
+          android:title="@string/itMnExit"/>
+
+    <item android:id="@+id/itmMnAbout"
+          android:title="@string/itMnAbout"/>
+</menu>
